@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @embassycoder
+- 👋 Hi, I’m @EmbassyShatta -- Coder,
 - 
-- 👀 I’m interested in programming languages...
+- 👀 I’m interested In Programming Languages,
 - 
-- 🌱 I’m currently learning a lot of programming language ...
+- 🌱 I’m Currently Learning A Lot Of Programming Language,
 - 
-- 💞️ I’m looking to collaborate on any project using html,css,python,javascript,node.js,express.js  ...
+- 💞️ I’m Looking Forward To Collaborate On Any Project Using HTML,CSS,JAVASCRIPT,PYTHON,REACT.JS,JAVA,PHP,C++,
 - 
-- 📫 How to reach me ... +2349019409886 : email: embassyshatta@gmail.com
+- 📫 How To Reach Me :
+
+- PHONE NUMBER : 09019409886
+- EMAIL : embassyshatta@gmail.com
 
 <!---
 embassycoder/embassycoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
